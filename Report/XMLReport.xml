@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="11.516">
+    <testcase classname="Login" name="Successful Login with Valid Credentials" time="11.277">
+        <system-out><![CDATA[Given User is on Login Page.................................................passed
+When User enter username and password.......................................passed
+And User click on login button..............................................passed
+Then User is on Inventory page..............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
