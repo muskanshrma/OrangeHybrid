@@ -52,4 +52,5 @@ public class LoginPage {
         boolean isResultDisplayed = driver.findElement(homePageVerify).isDisplayed();
         org.testng.Assert.assertTrue(isResultDisplayed, "Login error");
     }
+
 }
